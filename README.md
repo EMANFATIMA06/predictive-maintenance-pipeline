@@ -2,7 +2,7 @@
 
 A reusable, config-driven machine learning pipeline for manufacturing failure prediction — validated across two structurally different datasets, with an interactive Streamlit dashboard for training and evaluation.
 
-**🔗 Live demo:** [your-streamlit-link-here.streamlit.app](https://your-streamlit-link-here.streamlit.app)
+**🔗 Live demo:** https://predictive-maintenance-pipeline-kgktkxwtfn4sajrg8dnszo.streamlit.app/
 
 ## What this is
 
