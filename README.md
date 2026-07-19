@@ -32,17 +32,6 @@ Both used the same pipeline code — only the config (column mapping) changed.
 
 Python, pandas, scikit-learn, XGBoost, Streamlit, matplotlib
 
-## Run it locally
-
-```bash
-git clone https://github.com/EMANFATIMA06/predictive-maintenance-pipeline.git
-cd predictive-maintenance-pipeline
-python -m venv venv
-venv\Scripts\activate   # Windows
-pip install -r requirements.txt
-streamlit run app.py
-```
-
 ## Project structure
 ├── app.py                 # Streamlit dashboard
 ├── pipeline/
